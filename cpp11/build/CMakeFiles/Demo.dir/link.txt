@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++0x  -O0 -Wall -g -ggdb -rdynamic CMakeFiles/Demo.dir/AsyncLogging.cpp.o CMakeFiles/Demo.dir/CountDownLatch.cpp.o CMakeFiles/Demo.dir/FileUtil.cpp.o CMakeFiles/Demo.dir/LogFile.cpp.o CMakeFiles/Demo.dir/LogStream.cpp.o CMakeFiles/Demo.dir/LogTest.cpp.o CMakeFiles/Demo.dir/Logging.cpp.o -o Demo  -pthread 
